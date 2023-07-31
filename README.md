@@ -2,7 +2,7 @@
 Hi, I'm Muchammad Athfal!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 </h1>
-<img src="https://komarev.com/ghpvc/?username=muchammad-athfal&label=Profile%20Views&color=0e75b6&style=for-the-badge" align='right' alt="vickyadrii" />
+<img src="https://komarev.com/ghpvc/?username=muchammad-athfal&label=Profile%20Views&color=0e75b6&style=for-the-badge" align='right' alt="muchammad-athfal" />
 <br/>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
