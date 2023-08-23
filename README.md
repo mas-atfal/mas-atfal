@@ -22,7 +22,9 @@ Hi, I'm Muchammad Athfal!
 [![Instagram](https://img.shields.io/badge/Instagram-white?logo=instagram)](https://instagram.com/mas-atfal) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muchammad-athfal) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@mas-atfal) 
 
 <p align="center"> 
-    <a href="https://github.com/ekkyzainularifin"><img src="https://github-profile-trophy.vercel.app/?username=muchammad-athfal" alt="muchammad-athfal" /></a> 
+    <a href="https://github.com/muchammad-athfal">
+      <img src="https://github-profile-trophy.vercel.app/?username=muchammad-athfal" alt="muchammad-athfal" />
+    </a> 
 </p>
 
 ## 💻 Tech Stack:
