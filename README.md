@@ -17,6 +17,12 @@
 [![Instagram](https://img.shields.io/badge/Instagram-white?logo=instagram)](https://instagram.com/mas_atfal) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muchammad-athfal) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@mas-atfal) 
 
 ## 💻 Tech Stack
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-%23DD4814.svg?style=for-the-badge&logo=codeigniter&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Laravel Filament](https://img.shields.io/badge/filament-%231E40AF.svg?style=for-the-badge&logo=filament&logoColor=white)
+![Livewire](https://img.shields.io/badge/livewire-%23653AAF.svg?style=for-the-badge&logo=livewire&logoColor=white)
+
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
 ![Ruby on Rails](https://img.shields.io/badge/ruby%20on%20rails-%23CC0000.svg?style=for-the-badge&logo=rubyonrails&logoColor=white)
 
@@ -26,13 +32,6 @@
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/fastapi-%2300A27F.svg?style=for-the-badge&logo=fastapi&logoColor=white)
-
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![Laravel Filament](https://img.shields.io/badge/filament-%231E40AF.svg?style=for-the-badge&logo=filament&logoColor=white)
-![Livewire](https://img.shields.io/badge/livewire-%23653AAF.svg?style=for-the-badge&logo=livewire&logoColor=white)
-![CodeIgniter 3](https://img.shields.io/badge/CodeIgniter%203-%23DD4814.svg?style=for-the-badge&logo=codeigniter&logoColor=white)
-![CodeIgniter 4](https://img.shields.io/badge/CodeIgniter%204-%23DD4814.svg?style=for-the-badge&logo=codeigniter&logoColor=white)
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -77,7 +76,7 @@
 ## 📈 GitHub Stats
 
 <div>
-<!--   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=muchammad-athfal&theme=react&hide_border=false&count_private=true&include_all_commits=true" /> -->
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=muchammad-athfal&theme=react&hide_border=false&count_private=true&include_all_commits=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muchammad-athfal&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
   <br><br>
 </div>
