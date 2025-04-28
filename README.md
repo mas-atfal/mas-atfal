@@ -3,7 +3,7 @@
 </h6>
 
 <h1 align="center">
-  Hi, I'm Muchammad Athfal!
+  Hi, I'm Mas Atfal!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 </h1>
 
@@ -67,8 +67,8 @@
 ---
 
 ## 🏆 Github Profile Trophy
-<a href="https://github.com/muchammad-athfal/muchammad-athfal">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=muchammad-athfal&column=8&theme=gruvbox&no-frame=true"/>
+<a href="https://github.com/muchammad-athfal/mas-atfal">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=mas-atfal&column=8&theme=gruvbox&no-frame=true"/>
 </a>
 
 ---
@@ -76,11 +76,11 @@
 ## 📈 GitHub Stats
 
 <div>
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=muchammad-athfal&theme=react&hide_border=false&count_private=true&include_all_commits=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muchammad-athfal&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=mas-atfal&theme=react&hide_border=false&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mas-atfal&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
   <br><br>
 </div>
 
 <div>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muchammad-athfal&theme=react&hide_border=false" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mas-atfal&theme=react&hide_border=false" />
 </div>
