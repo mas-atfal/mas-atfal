@@ -67,7 +67,7 @@
 ---
 
 ## 🏆 Github Profile Trophy
-<a href="https://github.com/muchammad-athfal/mas-atfal">
+<a href="https://github.com/mas-atfal/mas-atfal">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=mas-atfal&column=8&theme=gruvbox&no-frame=true"/>
 </a>
 
