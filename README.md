@@ -1,5 +1,5 @@
 <h6 align="center">
-  <a href="mailto:muchammad.athfal@gmail.com">muchammad.athfal@gmail.com</a>
+  <a href="mailto:masatfal.work@gmail.com">masatfal.work@gmail.com</a>
 </h6>
 
 <h1 align="center">
